@@ -8,8 +8,7 @@ tags: [test]
 comments: true
 author: Bill Smith
 ---
- New change text 
- 
+
 ## Button 1
 <button type="button" onclick="alert('You pressed the button!')">Click me!</button>
 
