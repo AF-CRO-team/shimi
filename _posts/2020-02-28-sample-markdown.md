@@ -26,7 +26,7 @@ author: Bill Smith
 
 
 ## Button 1
-<button type="button" onclick="alert('You pressed the button!')">Click me!</button>
+<button type="button" onclick="alert('You pressed the button wena!')">Click me!</button>
 
 ## Button 2
  <a style="background-color: #ff8660; color: white; padding: 15px 25px;" href="/">Ugly Button</a>  
