@@ -30,16 +30,16 @@ subtitle: Testing page
     </style>
 
 <div class="menu">
-   <a id="button1" target=”_blank” href="https://example.com">Click Me</a>
+   <a id="button1" href="https://example.com">Click Me</a>
     </div>
 <div class="menu">
-        <a data-button="3" target=”_blank” href="https://example.com">Click Me</a>
+        <a data-button="3" href="https://example.com">Click Me</a>
     </div>
 <div class="menu">
-        <a class="quack" target=”_blank” href="https://example.com">Click Me</a>
+        <a class="quack" href="https://example.com">Click Me</a>
 </div>
 <div class="quack">
-            <a target=”_blank” href="https://example.com">Click Me</a>
+            <a href="https://example.com">Click Me</a>
 </div> 
  
  
